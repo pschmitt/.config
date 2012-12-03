@@ -1,0 +1,42 @@
+[submodule "spacefm"]
+	path = spacefm
+	url = git@github.com:pschmitt/spacefm.git
+[submodule "xinit"]
+	path = xinit
+	url = git@github.com:pschmitt/xinit.git
+[submodule "xmonad"]
+	path = xmonad
+	url = git@github.com:pschmitt/xmonad.git
+[submodule "xmodmap"]
+	path = xmodmap
+	url = git@github.com:pschmitt/xmodmap.git
+[submodule "tmux"]
+	path = tmux
+	url = git@github.com:pschmitt/tmux.git
+[submodule "dunst"]
+	path = dunst
+	url = git@github.com:pschmitt/dunst.git
+[submodule "xbindkeys"]
+	path = xbindkeys
+	url = git@github.com:pschmitt/xbindkeys.git
+[submodule "wmfs"]
+	path = wmfs
+	url = git@github.com:pschmitt/wmfs.git
+[submodule "Xresources"]
+	path = Xresources
+	url = git@github.com:pschmitt/Xresources.git
+[submodule "conky"]
+	path = conky
+	url = git@github.com:pschmitt/conky.git
+[submodule "i3status"]
+	path = i3status
+	url = git@github.com:pschmitt/i3status.git
+[submodule "i3"]
+	path = i3
+	url = git@github.com:pschmitt/i3.git
+[submodule "awesome"]
+	path = awesome
+	url = git@github.com:pschmitt/awesome.git
+[submodule "zsh"]
+	path = zsh
+	url = git@github.com:pschmitt/zsh.git
