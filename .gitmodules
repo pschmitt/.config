@@ -43,3 +43,6 @@
 [submodule "vim"]
 	path = vim
 	url = git@github.com:pschmitt/vim.git
+[submodule "irssi"]
+	path = irssi
+	url = git@github.com:pschmitt/irssi.git
