@@ -46,3 +46,9 @@
 [submodule "irssi"]
 	path = irssi
 	url = git@github.com:pschmitt/irssi.git
+[submodule "LS_COLORS"]
+	path = LS_COLORS
+	url = https://github.com/trapd00r/LS_COLORS
+[submodule "Thunar"]
+	path = Thunar
+	url = git@github.com:pschmitt/Thunar.git
