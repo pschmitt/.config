@@ -1,12 +1,12 @@
 This is a meta repo holding all my config file
 
-## Instalation
+## Installation
 
 ```
 git clone --recursive https://github.com/pschmitt/.config.git ~/.config
 ```
 
-This may fail if you already have a `.config` folder
+This may fail if you already have a `.config` folder.
 
 ## Updating
 
