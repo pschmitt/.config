@@ -1,54 +1,54 @@
 [submodule "spacefm"]
 	path = spacefm
-	url = git@github.com:pschmitt/spacefm.git
+	url = https://github.com/pschmitt/spacefm-config.git
 [submodule "xinit"]
 	path = xinit
-	url = git@github.com:pschmitt/xinit.git
+	url = https://github.com/pschmitt/xinit-config.git
 [submodule "xmonad"]
 	path = xmonad
-	url = git@github.com:pschmitt/xmonad.git
+	url = https://github.com/pschmitt/xmonad-config.git
 [submodule "xmodmap"]
 	path = xmodmap
-	url = git@github.com:pschmitt/xmodmap.git
+	url = https://github.com/pschmitt/xmodmap-config.git
 [submodule "tmux"]
 	path = tmux
-	url = git@github.com:pschmitt/tmux.git
+	url = https://github.com/pschmitt/tmux-config.git
 [submodule "dunst"]
 	path = dunst
-	url = git@github.com:pschmitt/dunst.git
+	url = https://github.com/pschmitt/dunst-config.git
 [submodule "xbindkeys"]
 	path = xbindkeys
-	url = git@github.com:pschmitt/xbindkeys.git
+	url = https://github.com/pschmitt/xbindkeys-config.git
 [submodule "wmfs"]
 	path = wmfs
-	url = git@github.com:pschmitt/wmfs.git
+	url = https://github.com/pschmitt/wmfs-config.git
 [submodule "Xresources"]
 	path = Xresources
-	url = git@github.com:pschmitt/Xresources.git
+	url = https://github.com/pschmitt/Xresources-config.git
 [submodule "conky"]
 	path = conky
-	url = git@github.com:pschmitt/conky.git
+	url = https://github.com/pschmitt/conky-config.git
 [submodule "i3status"]
 	path = i3status
-	url = git@github.com:pschmitt/i3status.git
+	url = https://github.com/pschmitt/i3status-config.git
 [submodule "i3"]
 	path = i3
-	url = git@github.com:pschmitt/i3.git
+	url = https://github.com/pschmitt/i3-config.git
 [submodule "awesome"]
 	path = awesome
-	url = git@github.com:pschmitt/awesome.git
+	url = https://github.com/pschmitt/awesome-config.git
 [submodule "zsh"]
 	path = zsh
-	url = git@github.com:pschmitt/zsh.git
+	url = https://github.com/pschmitt/zsh-config.git
 [submodule "vim"]
 	path = vim
-	url = git@github.com:pschmitt/vim.git
+	url = https://github.com/pschmitt/vim-config.git
 [submodule "irssi"]
 	path = irssi
-	url = git@github.com:pschmitt/irssi.git
+	url = https://github.com/pschmitt/irssi-config.git
 [submodule "LS_COLORS"]
 	path = LS_COLORS
 	url = https://github.com/trapd00r/LS_COLORS
 [submodule "Thunar"]
 	path = Thunar
-	url = git@github.com:pschmitt/Thunar.git
+	url = https://github.com/pschmitt/Thunar-config.git
