@@ -52,3 +52,6 @@
 [submodule "Thunar"]
 	path = Thunar
 	url = https://github.com/pschmitt/Thunar-config.git
+[submodule "vimperator"]
+	path = vimperator
+	url = https://github.com/pschmitt/vimperator-config
