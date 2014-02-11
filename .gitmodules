@@ -55,3 +55,6 @@
 [submodule "vimperator"]
 	path = vimperator
 	url = https://github.com/pschmitt/vimperator-config
+[submodule "gtk-3.0"]
+	path = gtk-3.0
+	url = https://github.com/pschmitt/gtk-3.0-config.git
