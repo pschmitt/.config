@@ -52,3 +52,15 @@
 [submodule "Thunar"]
 	path = Thunar
 	url = https://github.com/pschmitt/Thunar-config.git
+[submodule "vimperator"]
+	path = vimperator
+	url = https://github.com/pschmitt/vimperator-config
+[submodule "gtk-3.0"]
+	path = gtk-3.0
+	url = https://github.com/pschmitt/gtk-3.0-config.git
+[submodule "nitrogen"]
+	path = nitrogen
+	url = https://github.com/pschmitt/nitrogen-config.git
+[submodule "gtk-2.0"]
+	path = gtk-2.0
+	url = https://github.com/pschmitt/gtk-2.0-config.git
