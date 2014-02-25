@@ -64,3 +64,6 @@
 [submodule "gtk-2.0"]
 	path = gtk-2.0
 	url = https://github.com/pschmitt/gtk-2.0-config.git
+[submodule "sxhkd"]
+	path = sxhkd
+	url = https://github.com/pschmitt/sxhkd-config.git
