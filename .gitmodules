@@ -73,3 +73,6 @@
 [submodule "synergy"]
 	path = synergy
 	url = https://github.com/pschmitt/synergy-config.git
+[submodule "pentadactyl"]
+	path = pentadactyl
+	url = git@github.com:pschmitt/pentadactyl-config.git
